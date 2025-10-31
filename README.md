@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # UI State Capture System
 
 AI agent that automatically navigates web apps and captures UI states for any given task.
@@ -6,8 +5,8 @@ AI agent that automatically navigates web apps and captures UI states for any gi
 ## Setup
 ```bash
 # Clone and install
-git clone https://github.com/YOUR_USERNAME/softlight-ui-capture.git
-cd softlight-ui-capture
+git clone https://github.com/jianghuang588/Softlight_Engineering-_Take-Home-Assignment.git
+cd Softlight_Engineering-_Take-Home-Assignment
 npm install
 npx playwright install
 ```
@@ -64,6 +63,3 @@ All screenshots saved in `/screenshots` folder:
 ## Author
 
 Huang Jiang
-EOF# Softlight_Engineering-_Take-Home-Assignment
-# Softlight_Engineering-_Take-Home-Assignment
-# Softlight_Engineering-_Take-Home-Assignment

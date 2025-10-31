@@ -1,0 +1,12 @@
+{
+  "question": "How do I create a database in Notion?",
+  "task": {
+    "action": "create",
+    "app": "notion",
+    "target": "database",
+    "original": "How do I create a database in Notion?"
+  },
+  "screenshots": 4,
+  "timestamp": "2025-10-31T15:46:28.250Z",
+  "folder": "screenshots/notion-create-database"
+}

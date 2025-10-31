@@ -1,0 +1,12 @@
+{
+  "question": "How do I create a new page in Notion?",
+  "task": {
+    "action": "create",
+    "app": "notion",
+    "target": "page",
+    "original": "How do I create a new page in Notion?"
+  },
+  "screenshots": 4,
+  "timestamp": "2025-10-31T15:40:47.636Z",
+  "folder": "screenshots/notion-create-page"
+}

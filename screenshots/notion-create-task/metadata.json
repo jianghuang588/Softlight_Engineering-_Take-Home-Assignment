@@ -1,0 +1,12 @@
+{
+  "question": "How do I add a new task in Notion?",
+  "task": {
+    "action": "create",
+    "app": "notion",
+    "target": "task",
+    "original": "How do I add a new task in Notion?"
+  },
+  "screenshots": 4,
+  "timestamp": "2025-10-31T15:46:45.524Z",
+  "folder": "screenshots/notion-create-task"
+}

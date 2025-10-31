@@ -1,0 +1,12 @@
+{
+  "question": "How do I filter tasks in Notion?",
+  "task": {
+    "action": "filter",
+    "app": "notion",
+    "target": "task",
+    "original": "How do I filter tasks in Notion?"
+  },
+  "screenshots": 4,
+  "timestamp": "2025-10-31T15:46:37.249Z",
+  "folder": "screenshots/notion-filter-task"
+}

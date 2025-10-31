@@ -1,0 +1,11 @@
+{
+  "question": "How do I search in Notion?",
+  "task": {
+    "action": "search",
+    "app": "notion",
+    "target": "content"
+  },
+  "screenshots": 4,
+  "timestamp": "2025-10-31T15:49:32Z",
+  "folder": "screenshots/notion-search"
+}
